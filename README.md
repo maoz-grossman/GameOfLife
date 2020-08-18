@@ -42,4 +42,4 @@
 </i>
 </p>
 <br>
-![alt text](https://github.com/maoz-grossman/GameOfLife-/blob/master/Images/output_lgDqWb.gif?raw=true)
+![ Alt text ]( https://github.com/maoz-grossman/GameOfLife-/blob/master/Images/output_lgDqWb.gif?raw=true )
