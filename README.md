@@ -1,5 +1,5 @@
 # GameOfLife-
-## conway's game of life console game -Java
+ conway's game of life console game -Java
 
 ---
 
@@ -35,11 +35,12 @@
   Each generation is a pure function of the preceding one.<br>
   The rules continue to be applied repeatedly to create further generations.
   <br>
+  <br>
   <i>
   For more infortmation: 
   https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 </i>
 </p>
 
-
+[ Ilustration ](https://github.com/maoz-grossman/GameOfLife-/blob/master/Images/output_lgDqWb.gif?raw=true)
 
